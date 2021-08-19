@@ -1,0 +1,69 @@
+% Title      : Objectivism
+% Description: Book 'Objectivism: the Philosophy of Ayn Rand (Notes)'.
+% Author     : Bernardo Paulsen
+% Version    : 0.6.0
+
+\documentclass{book}
+
+\usepackage[utf8]{inputenc}
+\usepackage[a5paper, total={5in, 8in}]{geometry}
+\usepackage{amsthm}
+\usepackage{comment}
+\usepackage[nottoc,numbib]{tocbibind} % bibliography in table of contents
+\usepackage{natbib}
+\bibliographystyle{apalike}
+\usepackage{todonotes}
+\usepackage{blindtext}
+\usepackage{hyperref}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={Objectivism: the Philosophy of Ayn Rand (Notes)},
+    pdfpagemode=FullScreen,
+    }
+
+\newtheorem{axiom}{Axiom}[section]
+\newtheorem*{example}{Example}
+\newtheorem{corollary}{Corollary}[section]
+\newtheorem{definition}{Definition}[section]
+\newtheorem*{remark}{Remark}
+\newtheorem{theorem}{Theorem}[section]
+
+\title{Objectivism: the Philosophy of Ayn Rand \\
+    (Notes)}
+\author{Bernardo Paulsen}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\frontmatter
+
+\input{dedication}
+\input{preface}
+\input{glossary}
+
+\mainmatter
+
+\input{1}  %OK
+\input{2}  %OK 
+\input{3}  %OK
+\input{4}  %OK
+\input{5}  %OK
+\input{6}  %OK
+\input{7}  %OK
+\input{8}  %---3,4
+\input{9}  %OK
+\input{10} %---1,2,3
+\input{11} %---1,2,3
+\input{12} %---1,2,3
+
+\backmatter
+
+\bibliography{references}
+
+\end{document}
