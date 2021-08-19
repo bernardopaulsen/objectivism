@@ -1,1 +1,5 @@
 .DS_Store
+peikoff_objectivism/objectivism.*
+!peikoff_objectivism/objectivism.pdf
+!peikoff_objectivism/objectivism.html
+
