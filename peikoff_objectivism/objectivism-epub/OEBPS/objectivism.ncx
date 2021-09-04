@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid"
+    content="http://example.com/objectivism" />
+    <meta name="dtb:depth" content="3" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Objectivism: the Philosophy of Ayn Rand 
+    <br class="newline" />(Notes)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="objectivismli2.html#Q1-3-3" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="objectivismli3.html#Q1-4-5" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Glossary</text>
+      </navLabel>
+      <content src="objectivismch1.html#x5-4000" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>I Metaphysics</text>
+      </navLabel>
+      <content src="objectivismpa1.html#x6-5000I" />
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>1 Reality</text>
+        </navLabel>
+        <content src="objectivismch2.html#x7-60001" />
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>1.1 Existence, Identity and Consciousness as the
+            Basic Axioms</text>
+          </navLabel>
+          <content src="objectivismch2.html#x7-70001.1" />
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>1.2 Causality as a Corollary of Identity</text>
+          </navLabel>
+          <content src="objectivismch2.html#x7-80001.2" />
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>1.3 Existence as Possessing Primacy over
+            Consciousness</text>
+          </navLabel>
+          <content src="objectivismch2.html#x7-90001.3" />
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>1.4 The Metaphysically Given as Absolute</text>
+          </navLabel>
+          <content src="objectivismch2.html#x7-100001.4" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>2 Sense Perception and Volition</text>
+        </navLabel>
+        <content src="objectivismch3.html#x8-110002" />
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>2.1 The Senses as Necessarily Valid</text>
+          </navLabel>
+          <content src="objectivismch3.html#x8-120002.1" />
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>2.2 Sensory Qualities as Real</text>
+          </navLabel>
+          <content src="objectivismch3.html#x8-130002.2" />
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>2.3 Consciousness as Possessing Identity</text>
+          </navLabel>
+          <content src="objectivismch3.html#x8-140002.3" />
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>2.4 The Perceptual Level as the Given</text>
+          </navLabel>
+          <content src="objectivismch3.html#x8-150002.4" />
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>2.5 The Primary Choice as the Choice to Focus or
+            Not</text>
+          </navLabel>
+          <content src="objectivismch3.html#x8-160002.5" />
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>2.6 Human Actions, Mental and Physical, as Both
+            Caused and Free</text>
+          </navLabel>
+          <content src="objectivismch3.html#x8-170002.6" />
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>2.7 Volition as Axiomatic</text>
+          </navLabel>
+          <content src="objectivismch3.html#x8-180002.7" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>II Epistemology</text>
+      </navLabel>
+      <content src="objectivismpa2.html#x9-19000II" />
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>3 Concept-Fromation</text>
+        </navLabel>
+        <content src="objectivismch4.html#x10-200003" />
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>3.1 Differentiation and Integration as the Means
+            to a Unit-Perspective</text>
+          </navLabel>
+          <content src="objectivismch4.html#x10-210003.1" />
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>3.2 Concept-Formation as a Mathematical
+            Process</text>
+          </navLabel>
+          <content src="objectivismch4.html#x10-220003.2" />
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>3.3 Definition as the Final Step in
+            Concept-Formation</text>
+          </navLabel>
+          <content src="objectivismch4.html#x10-230003.3" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>4 Objectivity</text>
+        </navLabel>
+        <content src="objectivismch5.html#x11-240004" />
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>4.1 Concepts as Objective</text>
+          </navLabel>
+          <content src="objectivismch5.html#x11-250004.1" />
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>4.2 Objectivity as Volitional Adherence to
+            Reality by a Method of Logic</text>
+          </navLabel>
+          <content src="objectivismch5.html#x11-260004.2" />
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>4.3 Knowledge as Contextual</text>
+          </navLabel>
+          <content src="objectivismch5.html#x11-270004.3" />
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>4.4 Knowledge as Hierarchical</text>
+          </navLabel>
+          <content src="objectivismch5.html#x11-280004.4" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>5 Reason</text>
+        </navLabel>
+        <content src="objectivismch6.html#x12-290005" />
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>5.1 Emotions as a Product of Ideas</text>
+          </navLabel>
+          <content src="objectivismch6.html#x12-300005.1" />
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>5.2 Reason as Man’s Only Means of
+            Knowledge</text>
+          </navLabel>
+          <content src="objectivismch6.html#x12-310005.2" />
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>5.3 The Arbitrary as Neither True or False</text>
+          </navLabel>
+          <content src="objectivismch6.html#x12-320005.3" />
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>5.4 Certainty as Contextual</text>
+          </navLabel>
+          <content src="objectivismch6.html#x12-330005.4" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>III Ethics</text>
+      </navLabel>
+      <content src="objectivismpa3.html#x13-34000III" />
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>6 Man</text>
+        </navLabel>
+        <content src="objectivismch7.html#x14-350006" />
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>6.1 Man as Conditional and Goal-Directed</text>
+          </navLabel>
+          <content src="objectivismch7.html#x14-360006.1" />
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>6.2 Reason as Man’s Basic Means of
+            Survival</text>
+          </navLabel>
+          <content src="objectivismch7.html#x14-370006.2" />
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+          <navLabel>
+            <text>6.3 Reason as an Attribute of the
+            Individual</text>
+          </navLabel>
+          <content src="objectivismch7.html#x14-380006.3" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>7 The Good</text>
+        </navLabel>
+        <content src="objectivismch8.html#x15-390007" />
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>7.1 “Life” as the Essential Root of
+            “Value”</text>
+          </navLabel>
+          <content src="objectivismch8.html#x15-400007.1" />
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>7.2 Man’s Life as the Standard of Moral
+            Value</text>
+          </navLabel>
+          <content src="objectivismch8.html#x15-410007.2" />
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>7.3 Rationality as the Primary Virtue</text>
+          </navLabel>
+          <content src="objectivismch8.html#x15-420007.3" />
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>7.4 The Individual as the Propor Beneficiary of
+            his Own Moral Action</text>
+          </navLabel>
+          <content src="objectivismch8.html#x15-430007.4" />
+        </navPoint>
+        <navPoint id="navPoint-43" playOrder="43">
+          <navLabel>
+            <text>7.5 Values as Objective</text>
+          </navLabel>
+          <content src="objectivismch8.html#x15-440007.5" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>8 Virtue</text>
+        </navLabel>
+        <content src="objectivismch9.html#x16-450008" />
+        <navPoint id="navPoint-45" playOrder="45">
+          <navLabel>
+            <text>8.1 Independence as a Primary Orientation to
+            Reality, not to Other Men</text>
+          </navLabel>
+          <content src="objectivismch9.html#x16-460008.1" />
+        </navPoint>
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>8.2 Integrity as Loyalty to Rational
+            Principles</text>
+          </navLabel>
+          <content src="objectivismch9.html#x16-470008.2" />
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+          <navLabel>
+            <text>8.3 Honesty as the Rejection of Unreality</text>
+          </navLabel>
+          <content src="objectivismch9.html#x16-480008.3" />
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>8.4 Justice as Rationality in the Evaluation of
+            Men</text>
+          </navLabel>
+          <content src="objectivismch9.html#x16-490008.4" />
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>8.5 Productiveness as the Adjustment of Nature to
+            Man</text>
+          </navLabel>
+          <content src="objectivismch9.html#x16-500008.5" />
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>8.6 Pride as Moral Ambitiousness</text>
+          </navLabel>
+          <content src="objectivismch9.html#x16-510008.6" />
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51">
+          <navLabel>
+            <text>8.7 The Initiation of Physical Force as
+            Evil</text>
+          </navLabel>
+          <content src="objectivismch9.html#x16-520008.7" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>9 Happiness</text>
+        </navLabel>
+        <content src="objectivismch10.html#x17-530009" />
+        <navPoint id="navPoint-53" playOrder="53">
+          <navLabel>
+            <text>9.1 Virtue as Practical</text>
+          </navLabel>
+          <content src="objectivismch10.html#x17-540009.1" />
+        </navPoint>
+        <navPoint id="navPoint-54" playOrder="54">
+          <navLabel>
+            <text>9.2 Happiness as the Normal Condition of
+            Man</text>
+          </navLabel>
+          <content src="objectivismch10.html#x17-550009.2" />
+        </navPoint>
+        <navPoint id="navPoint-55" playOrder="55">
+          <navLabel>
+            <text>9.3 Sex as Metaphysical</text>
+          </navLabel>
+          <content src="objectivismch10.html#x17-560009.3" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>IV Politics</text>
+      </navLabel>
+      <content src="objectivismpa4.html#x18-57000IV" />
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>10 Government</text>
+        </navLabel>
+        <content src="objectivismch11.html#x19-5800010" />
+        <navPoint id="navPoint-58" playOrder="58">
+          <navLabel>
+            <text>10.1 Individual Rights as Absolutes</text>
+          </navLabel>
+          <content src="objectivismch11.html#x19-5900010.1" />
+        </navPoint>
+        <navPoint id="navPoint-59" playOrder="59">
+          <navLabel>
+            <text>10.2 Government as an Agency to Protect
+            Rights</text>
+          </navLabel>
+          <content src="objectivismch11.html#x19-6000010.2" />
+        </navPoint>
+        <navPoint id="navPoint-60" playOrder="60">
+          <navLabel>
+            <text>10.3 Statism as the Politics of Unreason</text>
+          </navLabel>
+          <content src="objectivismch11.html#x19-6100010.3" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>11 Capitalism</text>
+        </navLabel>
+        <content src="objectivismch12.html#x20-6200011" />
+        <navPoint id="navPoint-62" playOrder="62">
+          <navLabel>
+            <text>11.1 Capitalism as the Only Moral System</text>
+          </navLabel>
+          <content src="objectivismch12.html#x20-6300011.1" />
+        </navPoint>
+        <navPoint id="navPoint-63" playOrder="63">
+          <navLabel>
+            <text>11.2 Capitalism as the System of
+            Objectivity</text>
+          </navLabel>
+          <content src="objectivismch12.html#x20-6400011.2" />
+        </navPoint>
+        <navPoint id="navPoint-64" playOrder="64">
+          <navLabel>
+            <text>11.3 Opposition to Capitalism as Dependent on Bad
+            Epistemology</text>
+          </navLabel>
+          <content src="objectivismch12.html#x20-6500011.3" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>V Aesthetics</text>
+      </navLabel>
+      <content src="objectivismpa5.html#x21-66000V" />
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>12 Art</text>
+        </navLabel>
+        <content src="objectivismch13.html#x22-6700012" />
+        <navPoint id="navPoint-67" playOrder="67">
+          <navLabel>
+            <text>12.1 Art as a Concretization of
+            Metaphysics</text>
+          </navLabel>
+          <content src="objectivismch13.html#x22-6800012.1" />
+        </navPoint>
+        <navPoint id="navPoint-68" playOrder="68">
+          <navLabel>
+            <text>12.2 Romantic Literature as Illustrating the Role
+            of Philosophy in Art</text>
+          </navLabel>
+          <content src="objectivismch13.html#x22-6900012.2" />
+        </navPoint>
+        <navPoint id="navPoint-69" playOrder="69">
+          <navLabel>
+            <text>12.3 Esthetic Value as Objective</text>
+          </navLabel>
+          <content src="objectivismch13.html#x22-7000012.3" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Bibliography</text>
+        </navLabel>
+        <content src="objectivismch14.html#x23-7100012.3" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
