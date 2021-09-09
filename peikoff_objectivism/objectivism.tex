@@ -6,7 +6,7 @@
 \documentclass{book}
 
 \usepackage[utf8]{inputenc}
-\usepackage[a5paper, total={5in, 8in}]{geometry}
+\usepackage[a5paper]{geometry}
 \usepackage{amsthm}
 \usepackage{comment}
 \usepackage[nottoc,numbib]{tocbibind} % bibliography in table of contents
@@ -49,18 +49,25 @@
 
 \mainmatter
 
-\input{mainmatter/1}  %OK
-\input{mainmatter/2}  %OK 
-\input{mainmatter/3}  %OK
-\input{mainmatter/4}  %OK
-\input{mainmatter/5}  %OK
-\input{mainmatter/6}  %OK
-\input{mainmatter/7}  %OK
-\input{mainmatter/8}  %---3,4
-\input{mainmatter/9}  %OK
-\input{mainmatter/10} %---1,2,3
-\input{mainmatter/11} %---1,2,3
-\input{mainmatter/12} %---1,2,3
+\part{Metaphysics}
+\label{part:metaphysics}
+
+\input{mainmatter/1}
+\input{mainmatter/2}
+
+\part{Epistemology}
+\label{part:epistemology}
+
+\input{mainmatter/3}
+\input{mainmatter/4}
+\input{mainmatter/5}
+\input{mainmatter/6}
+\input{mainmatter/7}
+\input{mainmatter/8} 
+\input{mainmatter/9}
+\input{mainmatter/10}
+\input{mainmatter/11}
+\input{mainmatter/12}
 
 \backmatter
 
