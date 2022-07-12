@@ -2,4 +2,5 @@
 peikoff_objectivism/object*
 !peikoff_objectivism/objectivism.pdf
 !peikoff_objectivism/objectivism.html
-
+.idea
+out/
